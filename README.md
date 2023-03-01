@@ -1,7 +1,7 @@
 # oivan
 
-List of Requirements:
-●	You can choose any architecture, state management to build your project [DONE]
+##List of Requirements:
+###	You can choose any architecture, state management to build your project [DONE]
 ●	You can choose any third party to build your project. [DONE]
 ●	Source code is required to be uploaded to personal GitHub account [DONE]
 ●	Aiming for app performance, source code structure, memory, battery, network usage. [DONE]
